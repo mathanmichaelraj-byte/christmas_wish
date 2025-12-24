@@ -38,13 +38,6 @@
 
 ---
 
-## 📸 Screenshots / Demo
-
-> *(Add screenshots or a short screen recording GIF here for GitHub or Instagram)*  
-> Example path: `/screenshots/tree_game_demo.gif`  
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
